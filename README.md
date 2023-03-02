@@ -1,5 +1,5 @@
-Hi !, I'm 2B :sparkles: ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-=============================================================================================================================================
+<div align="center"> Hi !, I'm 2B :sparkles: ![](https://media1.giphy.com/media/nx8Q0nvaHTAUzDuRiH/giphy.gif?cid=6c09b952ajjdxhcbuxqftw6gqvv4tsr40vudub01i383762o&rid=giphy.gif&ct=s) </div>
+
 
 Student of Information Technology, KMITL 
 ----------------------------------------

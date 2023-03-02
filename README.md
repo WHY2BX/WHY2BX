@@ -3,8 +3,9 @@
 <h3 align="center"> Student of Information Technology, KMITL </h3> 
 <h3 align="center">Year1, Information Technology, KMITL </h3>
 
-  Greetings, I'm Supitcha Wisescharoen (aka.Bambam or you can call me 2B :dash:)
-I'm just a newbie programmer, on the way studying. Mostly push my homework @university here.
+
+  <p align="center"> Greetings, I'm Supitcha Wisescharoen (aka.Bambam or you can call me 2B :dash:)
+I'm just a newbie programmer, on the way studying. Mostly push my homework @university here. </p>
 
 <h2 align="center"> Education 🏫 </h2> 
 

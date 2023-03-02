@@ -1,9 +1,10 @@
 <h1 align="center"> Hi!, I'm 2B. ✨ </h1> 
 
 <h3 align="center"> Student of Information Technology, KMITL </h3> 
+<h2 align="center">Year1, Information Technology, KMITL </h2>
 
-
-Year1, Information Technology, KMITL
+  Greetings, I'm Supitcha Wisescharoen (aka.Bambam or you can call me 2B :dash:)
+I'm just a newbie programmer, on the way studying. Mostly push my homework @university here.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [whyso2bx@gmail.com](mailto:whyso2bx@gmail.com)
@@ -27,6 +28,8 @@ Year1, Information Technology, KMITL
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/WHY2BX" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bbcreampapapalipstickmamama_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/supitcha-wisescharoen-69ab4b229/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/thisis2b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+
+
 ### Badges
 
 <b>My GitHub Stats</b>

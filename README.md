@@ -1,6 +1,6 @@
 <h1 align="center"> Hi!, I'm 2B. ✨ </h1> 
 
-<h2 align="center"> Student of Information Technology, KMITL </h2> 
+<h2 align="center"> Student of Information Technology, KMITL /n1 </h2> 
 <h3 align="center">Year1, Information Technology, KMITL </h3>
 
   Greetings, I'm Supitcha Wisescharoen (aka.Bambam or you can call me 2B :dash:)

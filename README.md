@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Hi !, I'm 2B :sparkles: [](https://media1.giphy.com/media/nx8Q0nvaHTAUzDuRiH/giphy.gif?cid=6c09b952ajjdxhcbuxqftw6gqvv4tsr40vudub01i383762o&rid=giphy.gif&ct=s) </h1>
+<h1 style="text-align: center;"> Hi !, I'm 2B :sparkles: </h1>
 
 
 Student of Information Technology, KMITL 

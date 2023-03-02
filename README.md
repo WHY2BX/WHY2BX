@@ -1,11 +1,10 @@
 <h1 align="center"> Hi!, I'm 2B. ✨ </h1> 
+<h3 align="center"> Year1, Student of Information Technology, KMITL </h3> 
 
-<h3 align="center"> Student of Information Technology, KMITL </h3> 
-<h3 align="center">Year1, Information Technology, KMITL </h3>
-
-
-  <p align="center"> Greetings, I'm Supitcha Wisescharoen (aka.Bambam or you can call me 2B :dash:)
+  <p align="center"> Greetings, I'm Supitcha Wisescharoen (aka.Bambam or you can call me 2B :dash:)<br />
 I'm just a newbie programmer, on the way studying. Mostly push my homework @university here. </p>
+
+<br />
 
 <h2 align="center"> Education 🏫 </h2> 
 
@@ -16,10 +15,7 @@ I'm just a newbie programmer, on the way studying. Mostly push my homework @univ
 | Senior High School | Princess Sirindhorn's College | [SCiUS](https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%83%E0%B8%99%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99_%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2) |
 | University | King Mongkut's Institute of Technology Ladkrabang | Information Technology |
 
-
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [whyso2bx@gmail.com](mailto:whyso2bx@gmail.com)
-* 🧠  I'm learning Python, Java
+---
 
 ### Skills
 

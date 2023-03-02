@@ -1,7 +1,7 @@
-<h1 align="center"> Hi!, I'm 2B. </h1> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<h1 align="center"> Hi!, I'm 2B. ✨ </h1> 
 
-Student of Information Technology, KMITL 
-----------------------------------------
+<h3 align="center"> Student of Information Technology, KMITL </h3> 
+
 
 Year1, Information Technology, KMITL
 

@@ -1,4 +1,5 @@
-<h1 style="text-align: center;"> Hi !, I'm 2B :sparkles: </h1>
+<div align="center"> Hi !, I'm 2B :sparkles: </div>
+===================================================
 
 
 Student of Information Technology, KMITL 

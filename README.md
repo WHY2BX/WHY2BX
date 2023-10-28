@@ -1,5 +1,5 @@
 <h1 align="center"> Hi!, I'm 2B. ✨ </h1> 
-<h3 align="center"> Year1, Student of Information Technology, KMITL </h3> 
+<h3 align="center"> Year 2, Student of Information Technology, KMITL </h3> 
 
   <p align="center"> Greetings, I'm Supitcha Wisescharoen (aka.Bambam or you can call me 2B :dash:)<br />
 I'm just a newbie programmer, on the way studying. Mostly push my homework @university here. </p>

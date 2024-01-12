@@ -7,7 +7,7 @@ I'm just a newbie programmer, on the way studying. Mostly push my homework @univ
 <br />
 
 <h2 align="center"> Education 🏫 </h2> 
-<div justify-content-center>
+<div style="text-align=center">
 
 | Level         | School        | Program |
 | :-------------: |:-------------:| :-----:|

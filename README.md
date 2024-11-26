@@ -28,7 +28,7 @@ I'm just a newbie programmer, on the way studying. Mostly push my homework @univ
   <a target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="36" height="36" alt="css3" /></a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="36" height="36" alt="js" /></a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="36" height="36" alt="Php" /></a>
-  <a style='max-width:50px;max-height:50px;'href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/OIP.veIGkUPdXJ2pYy0tMvZfvQHaDt?rs=1&pid=ImgDetMain" width="36" height="36" alt="Php" /></a>
+  <a style='max-width:auto;max-height:auto;'href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/OIP.veIGkUPdXJ2pYy0tMvZfvQHaDt?rs=1&pid=ImgDetMain" width="36" height="36" alt="Php" /></a>
   
 </p>
 

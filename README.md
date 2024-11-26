@@ -39,8 +39,7 @@ I'm just a newbie programmer, on the way studying. Mostly push my homework @univ
   <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
   <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
   <a href="https://www.autodesk.com/asean/products/maya/overview?cjdata=MXxOfDB8WXww&term=1-YEAR&AID=13425272&PID=8206971&SID=jkp_Cj0KCQiAgJa6BhCOARIsAMiL7V_cHH-ceUxWHFvDqmQ09IDDaKwvyKPLfrg6G6PcPGPGc7cd247jmrcaAlXLEALw_wcB&cjevent=b3e45fdeabcd11ef838c03350a18ba74&mktvar002=afc_asean_deeplink&affname=8206971_13425272&tab=subscription&plc=MAYA" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/autodesk-maya-logo-F485ED50BF-seeklogo.com.png" width="36" height="36" alt="Maya" /></a>
-  <a href="https://dev.epicgames.com/community/fortnite/getting-started/uefn" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/932ee953-c8d9-4568-96d3-a104805a49da
-" width="36" height="36" alt="Unreal Engine for Fortnite" /></a>
+  <a href="https://dev.epicgames.com/community/fortnite/getting-started/uefn" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/media/FmoMulRXgAEJreg.png" width="36" height="36" alt="Unreal Engine for Fortnite" /></a>
   <a href="https://www.unrealengine.com/en-US/branding" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/943/703/png-transparent-unreal-engine-4-game-engine-unreal-match-3-others-text-trademark-logo-thumbnail.png" width="36" height="36" alt="Unreal Engine 5" /></a>
 </p>
 

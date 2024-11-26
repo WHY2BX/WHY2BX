@@ -21,10 +21,6 @@ I'm just a newbie programmer, on the way studying. Mostly push my homework @univ
 <br>
 
 ### Skills
-a {
-  max-width:50px;
-  max-height:50px;
-}
 <p align="center">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="36" height="36" alt="Java" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -32,7 +28,7 @@ a {
   <a target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="36" height="36" alt="css3" /></a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="36" height="36" alt="js" /></a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="36" height="36" alt="Php" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/OIP.veIGkUPdXJ2pYy0tMvZfvQHaDt?rs=1&pid=ImgDetMain" width="36" height="36" alt="Php" /></a>
+  <a style='max-width:50px;max-height:50px;'href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/OIP.veIGkUPdXJ2pYy0tMvZfvQHaDt?rs=1&pid=ImgDetMain" width="36" height="36" alt="Php" /></a>
   
 </p>
 

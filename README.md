@@ -1,5 +1,5 @@
 <h1 align="center"> ACHOO's here!. ✨ </h1> 
-<h3 align="center"> Year 3, Student of Information Technology, KMITL </h3>
+<h3 align="center"> Year 4, Student of Information Technology, KMITL </h3>
 <h5 align="center"> Multimedia for Interactive media, Web and Game Development </h5> 
 
   <p align="center"> Greetings, I'm Supitcha Wisescharoen (aka.Bambam or you can call me Achoo! :dash:)<br />

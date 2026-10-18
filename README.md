@@ -1,5 +1,12 @@
+<div align="center">
+  <img src="https://i.pinimg.com/736x/af/fb/24/affb2485f0ec5942325125856888ad0f.jpg"/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%3E+a+mystery+allure)](https://git.io/typing-svg)
+</div>
+
+
 <h1 align="center"> ACHOO's here!. ✨ </h1> 
-<h3 align="center"> Year 4, Student of Information Technology, KMITL </h3>
+<h3 align="center"> Fresh graduate from School of Information Technology, KMITL </h3>
 <h5 align="center"> Multimedia for Interactive media, Web and Game Development </h5> 
 
   <p align="center"> Greetings, I'm Supitcha Wisescharoen (aka.Bambam or you can call me Achoo! :dash:)<br />
@@ -22,31 +29,23 @@ I'm just a newbie programmer, on the way studying. Mostly push my homework @univ
 <br>
 
 ### Skills
-<p align="center">
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://www.citypng.com/public/uploads/preview/hd-java-logo-transparent-background-701751694771845zainlxmlfo.png" width="36" height="36" alt="Java" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://html5up.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="36" height="36" alt="html5" /></a>
-  <a target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="36" height="36" alt="css3" /></a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="36" height="36" alt="js" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="36" height="36" alt="Php" /></a>
-  <a style='max-width:auto;max-height:auto;'href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/27804?s=280&v=4" width="36" height="36" alt="Php" /></a>
-  
-</p>
 
-### SoftWare Skills
-<p align="center">
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-  <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-  <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-  <a href="https://www.autodesk.com/asean/products/maya/overview?cjdata=MXxOfDB8WXww&term=1-YEAR&AID=13425272&PID=8206971&SID=jkp_Cj0KCQiAgJa6BhCOARIsAMiL7V_cHH-ceUxWHFvDqmQ09IDDaKwvyKPLfrg6G6PcPGPGc7cd247jmrcaAlXLEALw_wcB&cjevent=b3e45fdeabcd11ef838c03350a18ba74&mktvar002=afc_asean_deeplink&affname=8206971_13425272&tab=subscription&plc=MAYA" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/autodesk-maya-logo-F485ED50BF-seeklogo.com.png" width="36" height="36" alt="Maya" /></a>
-  <a href="https://dev.epicgames.com/community/fortnite/getting-started/uefn" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/media/FmoMulRXgAEJreg.png" width="36" height="36" alt="Unreal Engine for Fortnite" /></a>
-  <a href="https://www.unrealengine.com/en-US/branding" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/943/703/png-transparent-unreal-engine-4-game-engine-unreal-match-3-others-text-trademark-logo-thumbnail.png" width="36" height="36" alt="Unreal Engine 5" /></a>
-</p>
+<div align="center">
+  <h3>🛠️ My Tech Stack</h3>
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,go,md&theme=dark&perline=8" alt="My Skills" />
+</div>
+<div align="center">
+  <h3>🛠️ Frameworks and Libraries</h3>
+  <br>
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,django,bootstrap&theme=dark&perline=8" alt="My Skills" />
+</div>
 
-### Socials
-
-<p align="center"> <a href="https://www.github.com/WHY2BX" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/thisis2b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+<div align="center">
+  <h3>🛠️ Tools</h3>
+  <br>
+  <img src="https://skillicons.dev/icons?i=vscode,github,redis,postman,supabase,figma,unreal,ps,postgres,sqlite,vercel,wordpress&theme=dark&perline=8" alt="My Skills" />
+</div>
 
 
 ### Badges
